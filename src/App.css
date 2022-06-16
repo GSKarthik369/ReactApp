@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+}
+
+.menu_li {
+    float: left;
+}
+
+.menu_li a {
+    display: block;
+    padding: 11px 23px;
+    text-decoration: none;
+    color: #ffffff;
+    font-family: Geneva, Tahoma, sans-serif;
+    font-size: 27px;
+}
+
+.menu_li a:hover {
+    color: #000000;
+    background-color: #ffffff;
+    border-radius: 6px;
+}
+
+.todo-para {
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    width: 25%;
+    height: 70%;
+}
+
+.card-title {
+    padding: 10px;
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.card-footer {
+    text-align: right;
+    height: 20%;
+}
+
+.content-title {
+    margin: 27px 40px;
+}
+
+.content-para {
+    margin: 27px 40px;
+    font-size: 25px;
+}
